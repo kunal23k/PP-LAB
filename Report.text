@@ -1,0 +1,27 @@
+Title: Math Functions and GUI Graph Plotter in Python
+
+1. Objective:
+This project implements arithmetic, quadratic, and linear mathematical operations in Python. It provides graphical representation and a tkinter-based application to plot quadratic graphs.
+
+2. Files:
+- arithmetic_and_quadratic.py: Performs basic arithmetic and solves quadratic equations.
+- linear_equation.py: Plots a linear function y = mx + c.
+- tkinter_app.py: A GUI to input coefficients a, b, c and view the quadratic graph.
+
+3. Libraries Used:
+- math
+- matplotlib
+- numpy
+- tkinter
+
+4. How to Run:
+- Ensure Python and required libraries are installed (`pip install matplotlib numpy`).
+- Run the scripts individually using a Python interpreter.
+
+5. Screenshots:
+(Attach screenshots of graph and GUI output in your submission)
+
+6. Learning Outcome:
+- Understanding of equations and plotting using matplotlib.
+- GUI development using tkinter.
+- Application of logic and Python functions to simulate mathematical problems.
